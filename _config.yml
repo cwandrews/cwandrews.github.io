@@ -1,5 +1,5 @@
 # Site settings
-title: cwndr.ws
+title: blog.cwndr.ws
 email: charlie@cwndr.ws
 description: > # this means to ignore newlines until "baseurl:"
   This is the web log for Charlie Andrews, computer programmer.
